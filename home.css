@@ -130,7 +130,8 @@ section{
 @media (max-width: 1200px) {
   .con{
     flex-direction: column;
-    width: 60%;
+    width: 90%;
+    margin: 50px 0 50px 0;
   }
   .con img{
     width: 100%;
