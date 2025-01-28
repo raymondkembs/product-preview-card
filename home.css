@@ -30,7 +30,7 @@ section{
   justify-content: center;
   align-items: flex-start;
   position: relative;
-  margin: 50px;
+  margin: 10% 50px 50px 50px;
   width:50%;
 }
 .con img{
